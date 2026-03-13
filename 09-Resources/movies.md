@@ -31,7 +31,7 @@ A curated list of Marathi films to improve your listening skills and cultural un
 
 ---
 
-### 2. **साईराट (Sairat)** - 2016
+### 2. **सैराट (Sairat)** - 2016
 - **Director**: Nagraj Manjule
 - **Starring**: Rinku Rajguru, Akash Thosar
 - **Genre**: Romance, Drama
