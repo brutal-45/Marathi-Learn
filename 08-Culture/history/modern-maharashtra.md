@@ -103,7 +103,6 @@
 | Vasantrao Naik | 1963-1975 | Longest serving |
 | Sharad Pawar | 1978-1980, 1988-1991 | Modernization |
 | Vilasrao Deshmukh | 1999-2003, 2004-2008 | Development focus |
-| Devendra Fadnavis | 2014-2019 | Infrastructure push |
 
 ### Political Movements | राजकीय चळवळी
 
