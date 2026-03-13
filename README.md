@@ -612,6 +612,6 @@ For questions, suggestions, or collaboration opportunities:
 
 *Learn Marathi, Speak Marathi, Live Marathi!*
 
-Made with ❤️ for Marathi language learners worldwide
+Made with Brutaltools for Marathi language learners worldwide
 
 </div>
