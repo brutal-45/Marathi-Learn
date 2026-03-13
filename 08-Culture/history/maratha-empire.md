@@ -133,9 +133,9 @@ After Shivaji's death, the Peshwas became de facto rulers:
 | Peshwa | Period | Achievements |
 |--------|--------|--------------|
 | Balaji Vishwanath | 1713-1720 | Rebuilt Maratha power |
-| Bajirao I | 1720-1740 | Greatest expansion |
+| Bajirao Ⅰ | 1720-1740 | Greatest expansion |
 | Balaji Bajirao | 1740-1761 | Peak of empire |
-| Madhavrao I | 1761-1772 | Recovery after Panipat |
+| Madhavrao Ⅰ | 1761-1772 | Recovery after Panipat |
 | Nana Fadnavis | 1772-1800 | "Maratha Machiavelli" |
 
 ### Bajirao I - The Great General | बाजीराव पहिले
