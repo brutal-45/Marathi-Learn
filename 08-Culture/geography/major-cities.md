@@ -24,7 +24,7 @@ Maharashtra is home to some of India's most important cities, each with its uniq
 | Population | Over 20 million (metro) |
 | Importance | Financial capital of India |
 | Nickname | City of Dreams (स्वप्नांचे शहर) |
-| Coast | Arabian Sea |
+| Coast | Arabian Sea (अरबी समुद्र) |
 
 ### Famous Landmarks | प्रसिद्ध स्थळे
 
