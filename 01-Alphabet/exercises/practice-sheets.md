@@ -32,16 +32,16 @@ Write each vowel 5 times, following proper stroke order:
 Draw lines connecting the Marathi vowel to its transliteration:
 
 ```
-अ       ī
-आ       a
-इ       ū
-ई       i
-उ       e
-ऊ       u
-ए       ā
-ऐ       au
-ओ       ai
-औ       o
+अ                ī
+आ                a
+इ                 ū
+ई                 i
+उ                 e
+ऊ                u
+ए                 ā
+ऐ                 au
+ओ                ai
+औ                o
 ```
 
 ### Exercise 1.3: Vowel Diacritics
