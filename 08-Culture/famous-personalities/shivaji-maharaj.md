@@ -360,7 +360,7 @@ The sacrifice of Tanaji at Sinhagad:
 
 | Fact | Marathi |
 |------|---------|
-| Shivaji had about 300 forts | शिवाजी महाराजांकडे सुमारे ३०० किल्ले होते |
+| Shivaji had about 353+ forts | शिवाजी महाराजांकडे सुमारे ३०० किल्ले होते |
 | He created India's first navy | त्यांनी भारताचे पहिले आरमार तयार केले |
 | His mother Jijabai was his inspiration | त्यांची आई जिजाबाई त्यांची प्रेरणा होत्या |
 | He respected all religions | ते सर्व धर्मांचा आदर करीत |
