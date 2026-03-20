@@ -1,4 +1,4 @@
-# Conversations - संभाषण (Saṃbhāṣaṇ)
+# Conversations - संभाषण (Sambhashan)
 
 Welcome to the Marathi Conversation Practice section! This comprehensive guide will help you develop practical conversational skills in Marathi through realistic dialogues and interactive exercises.
 
