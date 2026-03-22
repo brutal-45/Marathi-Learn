@@ -591,7 +591,7 @@ Join our growing community of Marathi learners and speakers!
 - The open-source community for inspiration and support
 - Maharashtra's rich cultural heritage that inspired this project
 
----
+----
 
 ## 📮 Contact | संपर्क
 
@@ -600,7 +600,7 @@ For questions, suggestions, or collaboration opportunities:
 - Open an [Issue](https://github.com/your-username/learn-marathi/issues)
 - Start a [Discussion](https://github.com/your-username/learn-marathi/discussions)
 
----
+----
 
 <div align="center">
 
