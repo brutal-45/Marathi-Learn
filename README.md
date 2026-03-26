@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🇮🇳 Learn Marathi
-# मराठी शिका
+# मराठी शिका..
 
 ![GitHub stars](https://img.shields.io/github/stars/your-username/learn-marathi?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/learn-marathi?style=social)
