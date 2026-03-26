@@ -351,4 +351,4 @@ A complete Maharashtrian meal (थाळी) includes:
 
 *"Food is not just eating energy. It's an experience."*
 
-*"अन्न हा केवळ ऊर्जा नाही. तो एक अनुभव आहे."*
+*"अन्न हा केवळ ऊर्जा नाही. तो एक अनुभव आहे..."*
