@@ -338,7 +338,7 @@ Maharashtrian breakfast (नाश्ता) is known for its variety, nutrition
 | Upma originated in South India | उपम्याचा उगम दक्षिण भारतात झाला |
 | These dishes are gluten-free options | हे पदार्थ ग्लूटेन-मुक्त पर्याय आहेत |
 
----
+----
 
 **Previous**: [Gudi Padwa](../festivals/gudi-padwa.md) | **Next**: [Main Dishes](./main-dishes.md)
 
