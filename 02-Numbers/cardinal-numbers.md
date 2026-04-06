@@ -72,7 +72,7 @@ Numbers 11-19 have unique names in Marathi. Notice the patterns.
 - Number 19: एकोणीस (ekoṇīs) literally means "one less than twenty"
 - Number 20: वीस (vīs) is unique
 
----
+----
 
 ## Part 3: Multiples of 10 (30-100) | भाग ३: दशक संख्या (३०-१००)
 
@@ -102,7 +102,7 @@ These are the "tens" that form the base for compound numbers.
 | 80-89 | Based on ऐंशी (aīnśī) - eighty |
 | 90-99 | Based on नव्वद (navvad) - ninety |
 
----
+----
 
 ## Part 4: Compound Numbers 21-99 | भाग ४: संयुक्त संख्या २१-९९
 
