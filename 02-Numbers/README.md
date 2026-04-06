@@ -6,7 +6,7 @@ Welcome to the Numbers section of the Learn Marathi course! Numbers are fundamen
 
 मराठी शिकण्याच्या कोर्समधील संख्या विभागात आपले स्वागत आहे! खरेदी करताना, वेळ सांगताना, तारखा चर्चा करताना किंवा फक्त मोजताना, संख्या दैनंदिन संवादासाठी मूलभूत आहेत.
 
----
+----
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
@@ -22,7 +22,7 @@ By the end of this section, you will be able to:
 - **Name days, months, and seasons** | दिवस, महिने आणि ऋतू सांगणे
 - **Express dates correctly** | तारखा योग्यरित्या व्यक्त करणे
 
----
+----
 
 ## Table of Contents | अनुक्रमणिका
 
