@@ -28,7 +28,7 @@ Excerpts from Marathi classical literature for advanced learners. These selectio
 पाहतां देव तुझेच रूप भारी।।६।।
 
 ### Transliteration
-**Abhang: "Ātāṃ śake nā devā māje bolaṇe"**
+**Abhang: "Atam sake na deva maje bolane"**
 
 Ātāṃ śake nā devā māje bolaṇe.
 Avaghā jagāchā tūñchi kartā. (1)
