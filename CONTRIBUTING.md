@@ -6,7 +6,7 @@ Thank you for your interest in contributing to the Learn Marathi project! This d
 
 ---
 
-## 📋 Table of Contents | अनुक्रमणिका
+## 📋 Table of Contents | अनुक्रमणिका 
 
 - [Code of Conduct](#code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
