@@ -83,7 +83,7 @@ Maharashtra has produced some of India's greatest artists (कलावंत) w
 | Birth | September 8, 1933 |
 | Birthplace | Sangli, Maharashtra |
 | Father | Deenanath Mangeshkar |
-
+| Death | Sunday, 12 April 2026 |
 ### Achievements | सिद्धी
 
 | Award | Year |
