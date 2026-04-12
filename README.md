@@ -3,11 +3,11 @@
 # 🇮🇳 Learn Marathi
 # मराठी शिका..
 
-![GitHub stars](https://img.shields.io/github/stars/brutal-45/learn-marathi?style=social)
-![GitHub forks](https://img.shields.io/github/forks/brutal-45/learn-marathi?style=social)
-![GitHub issues](https://img.shields.io/github/issues/brutal-45/learn-marathi)
-![GitHub license](https://img.shields.io/github/license/brutal-45/learn-marathi)
-![GitHub contributors](https://img.shields.io/github/contributors/brutal-45/learn-marathi)
+![GitHub stars](https://img.shields.io/github/stars/brutal-45/Marathi-Learn?style=social)
+![GitHub forks](https://img.shields.io/github/forks/brutal-45/Marathi-Learn?style=social)
+![GitHub issues](https://img.shields.io/github/issues/brutal-45/Marathi-Learn)
+![GitHub license](https://img.shields.io/github/license/brutal-45/Marathi-Learn)
+![GitHub contributors](https://img.shields.io/github/contributors/brutal-45/Marathi-Learn)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 **A complete open-source resource to learn Marathi language from scratch**
