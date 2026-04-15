@@ -2,7 +2,7 @@
 
 This section covers commonly used Marathi idioms with their meanings and usage examples.
 
-## Daily Life Idioms
+## Daily Life Idioms 
 
 | Marathi | Transliteration | Meaning | Example |
 |---------|-----------------|---------|---------|
