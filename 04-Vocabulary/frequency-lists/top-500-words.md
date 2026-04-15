@@ -7,7 +7,7 @@ This extended vocabulary list builds upon the [Top 100 Words](./top-100-words.md
 ### Basic Pronouns & Demonstratives (101-125)
 
 | # | English | Marathi | Transliteration | Example Sentence |
-|---|---------|---------|-----------------|------------------|
+|---|---------|---------|-----------------|------------------| 
 | 101 | myself | स्वतः | svataḥ | मी स्वतः आलो. (I came myself.) |
 | 102 | yourself | स्वतः | svataḥ | तू स्वतः कर. (Do it yourself.) |
 | 103 | himself/herself | स्वतः | svataḥ | तो स्वतः आला. (He came himself.) |
