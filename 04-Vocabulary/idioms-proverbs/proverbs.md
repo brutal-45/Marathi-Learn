@@ -2,7 +2,7 @@
 
 Traditional Marathi proverbs (म्हणी - mhaṇī) are wise sayings passed down through generations. They contain cultural wisdom and practical life lessons.
 
-## Wisdom & Knowledge Proverbs
+## Wisdom & Knowledge Proverbs 
 
 | Marathi | Transliteration | Meaning | Example |
 |---------|-----------------|---------|---------|
