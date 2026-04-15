@@ -7,7 +7,7 @@ Common Marathi sayings and expressions (वाक्प्रचार - vākpra
 | Marathi | Transliteration | Meaning | Example |
 |---------|-----------------|---------|---------|
 | नमस्कार | namaskār | Hello/Greetings (formal) | नमस्कार, तुम्ही कसे आहात? (Hello, how are you?) |
-| प्रणाम | praṇām | Respectful greetings | आईला प्रणाम केला. (Paid respects to mother.) |
+| प्रणाम | praṇām | Respectful greetings | आईला प्रणाम केला. (Paid respects to mother.) | 
 | साधरण दिवस कसा गेला? | sādharaṇ divas kasā gelā? | How was your day? | साधरण दिवस कसा गेला, साहेब? (How was your day, sir?) |
 | चाललो आता | cālalo ātā | I'm leaving now | चाललो आता, भेटू पुन्हा. (Leaving now, meet again.) |
 | पुन्हा भेटू | punhā bheṭū | See you again | नमस्कार, पुन्हा भेटू! (Goodbye, see you again!) |
