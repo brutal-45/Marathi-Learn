@@ -1,6 +1,6 @@
 # Top 100 Most Common Marathi Words
 
-These are the 100 most frequently used words in Marathi. Mastering these words will help you understand approximately 50% of everyday Marathi conversations.
+These are the 100 most frequently used words in Marathi. Mastering these words will help you understand approximately 50% of everyday Marathi conversations. 
 
 ## 📋 Quick Reference
 
