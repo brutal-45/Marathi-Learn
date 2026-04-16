@@ -32,12 +32,12 @@ Thank you. Let's start discussion on the first item.
 
 | Marathi | Transliteration | English |
 |---------|-----------------|---------|
-| बैठक | baiṭhaka | Meeting |
-| अध्यक्ष | adhyakṣa | Chairman/Chairperson |
-| सचिव | sacīva | Secretary |
-| उपस्थिती | upasthitī | Attendance |
-| नोंद | nōṃda | Record/Note |
-| तिमाही | timāhī | Quarterly |
+| बैठक | baithak | Meeting |
+| अध्यक्ष | adhyaksa | Chairman/Chairperson |
+| सचिव | sachiva | Secretary |
+| उपस्थिती | upasthiti | Attendance |
+| नोंद | nond | Record/Note |
+| तिमाही | timahi | Quarterly |
 | विक्री अहवाल | vikrī ahavāla | Sales report |
 | प्रकल्प | prakaḷpa | Project |
 | कार्यक्रम | kāryakrama | Agenda |
