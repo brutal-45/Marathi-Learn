@@ -7,7 +7,7 @@ Practice completing sentences with the correct Marathi words.
 ## Exercise 1: Basic Greetings
 
 Fill in the blanks with the appropriate greeting or phrase.
-
+ 
 1. ______ मराठी शिकतो आहे. (I am learning Marathi)
    
 2. तुमचे ______ काय आहे? (What is your name?)
