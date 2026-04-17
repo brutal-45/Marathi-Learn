@@ -8,7 +8,7 @@ Practice constructing grammatically correct Marathi sentences with these structu
 
 Marathi follows SOV (Subject-Object-Verb) word order. Rearrange the words to form correct sentences.
 
-### Example:
+### Example: 
 Words: मी (I) / पुस्तक (book) / वाचतो (read)
 Answer: **मी पुस्तक वाचतो.** (I read a book.)
 
