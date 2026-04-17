@@ -6,7 +6,7 @@ Practice translating between English and Marathi.
 
 ## Exercise 1: Simple Sentences (English to Marathi)
 
-Translate the following English sentences into Marathi.
+Translate the following English sentences into Marathi. 
 
 1. I am a student.
    
