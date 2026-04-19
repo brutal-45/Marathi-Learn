@@ -10,7 +10,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/brutal-45/Marathi-Learn)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-**A complete open-source resource to learn Marathi language from scratch**
+**A complete open-source resource to learn Marathi language from scratch** 
 
 **मराठी भाषा शिकण्यासाठी संपूर्ण मार्गदर्शक**
 
