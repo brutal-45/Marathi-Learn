@@ -1,4 +1,4 @@
-# Contributing to Learn Marathi | मराठी शिका मध्ये योगदान
+# Contributing to Learn Marathi | मराठी शिका मध्ये योगदान 
 
 Thank you for your interest in contributing to the Learn Marathi project! This document provides guidelines and instructions for contributing.
 
