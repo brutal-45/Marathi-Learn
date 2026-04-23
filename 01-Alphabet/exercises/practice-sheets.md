@@ -63,7 +63,7 @@ Write the diacritic form for each vowel:
 
 ### Exercise 1.4: Short vs Long Vowels
 
-Mark each vowel as 'S' (Short) or 'L' (Long):
+Mark each vowel as 'S' (Short) or 'L' (Long): 
 
 | Vowel | S/L |
 |-------|-----|
