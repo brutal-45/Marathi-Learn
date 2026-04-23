@@ -5,7 +5,7 @@
 By the end of this lesson, you will be able to:
 
 - **Identify** all 36 Marathi consonants in written form
-- **Pronounce** each consonant correctly with proper aspiration
+- **Pronounce** each consonant correctly with proper aspiration 
 - **Distinguish** between dental and retroflex consonants
 - **Differentiate** aspirated and unaspirated sounds
 - **Categorize** consonants by place of articulation
