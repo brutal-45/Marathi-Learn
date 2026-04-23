@@ -5,7 +5,7 @@
 By the end of this guide, you will be able to:
 
 - **Write** all Devanagari characters correctly
-- **Follow** proper stroke order for each letter
+- **Follow** proper stroke order for each letter 
 - **Connect** letters with the headline (शिरोरेषा)
 - **Recognize** common writing mistakes
 - **Develop** legible handwriting
