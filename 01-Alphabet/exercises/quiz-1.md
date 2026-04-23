@@ -24,7 +24,7 @@ Which vowel is this: आ?
 <summary>Answer</summary>
 B) Long 'a' (आ)
 </details>
-
+ 
 ---
 
 ### Question 2
