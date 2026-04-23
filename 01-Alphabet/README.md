@@ -6,7 +6,7 @@ By completing this section, you will be able to:
 
 - **Identify and pronounce** all 12 vowels (स्वर) of the Marathi language
 - **Recognize and articulate** all 36 consonants (व्यंजन) with correct pronunciation
-- **Understand** the Barakhadi system (बाराखडी) - the foundation of reading Devanagari
+- **Understand** the Barakhadi system (बाराखडी) - the foundation of reading Devanagari 
 - **Write** Devanagari characters with proper stroke order
 - **Distinguish** between similar-sounding letters (dental vs. retroflex, aspirated vs. unaspirated)
 - **Read** basic Marathi words with correct pronunciation
