@@ -4,7 +4,7 @@
 
 By the end of this lesson, you will be able to:
 
-- **Identify** all 12 Marathi vowels in written form
+- **Identify** all 12 Marathi vowels in written form 
 - **Pronounce** each vowel correctly with proper length
 - **Write** each vowel character with correct stroke order
 - **Recognize** the diacritic forms of vowels
