@@ -5,7 +5,7 @@
 By the end of this lesson, you will be able to:
 
 - **Understand** what Barakhadi is and why it's essential
-- **Read** all consonant-vowel combinations
+- **Read** all consonant-vowel combinations 
 - **Write** Barakhadi charts from memory
 - **Recognize** vowel diacritics on consonants
 - **Pronounce** combined syllables correctly
