@@ -7,7 +7,7 @@ This section contains practice exercises for all adjective concepts covered in t
 या विभागात धड्यांमध्ये समाविष्ट असलेल्या सर्व विशेषण संकल्पनांसाठी सराव व्यायाम आहेत. मराठी विशेषणांची तुमची समज तपासण्यासाठी प्रत्येक व्यायामातून जा.
 
 ---
-
+ 
 ## Part 1: Basic Adjectives | मूलभूत विशेषण
 
 ### Exercise 1.1: Gender Agreement | लिंग सामंजस्य
