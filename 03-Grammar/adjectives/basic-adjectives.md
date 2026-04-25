@@ -12,7 +12,7 @@ Adjectives (विशेषण - visheṣaṇ) are words that describe or modify
 
 By the end of this lesson, you will be able to:
 
-- ✅ Understand how adjectives work in Marathi
+- ✅ Understand how adjectives work in Marathi 
 - ✅ Learn common adjectives and their forms
 - ✅ Apply correct adjective agreement with gender and number
 - ✅ Use adjectives correctly in sentences
