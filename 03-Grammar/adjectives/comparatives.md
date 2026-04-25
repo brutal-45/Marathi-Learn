@@ -11,7 +11,7 @@ When we compare things in Marathi, we use special constructions for comparative 
 ## Learning Objectives | शिकण्याचे उद्दिष्ट्य
 
 By the end of this lesson, you will be able to:
-
+ 
 - ✅ Form comparative sentences using पेक्षा (pekṣā)
 - ✅ Form superlative sentences using सर्वात (sarvāt)
 - ✅ Use irregular comparative forms
