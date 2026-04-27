@@ -32,7 +32,7 @@
 
 | Feature | English | मराठी |
 |---------|---------|-------|
-| 🔤 **Alphabet** | Complete Devanagari script guide with pronunciation | उच्चारासह संपूर्ण देवनागरी लिपी मार्गदर्शक |
+| 🔤 **Alphabet** | Complete Devanagari script guide with pronunciation | उच्चारासह संपूर्ण देवनागरी लिपी मार्गदर्शक | 
 | 📊 **Numbers** | Cardinal and ordinal numbers, time, and dates | मूळ संख्या आणि क्रमवार संख्या, वेळ आणि तारखा |
 | 📚 **Grammar** | Comprehensive grammar from basics to advanced | मूलभूत ते प्रगत संपूर्ण व्याकरण |
 | 📖 **Vocabulary** | 1000+ words organized by frequency and theme | वारंवारता आणि विषयानुसार 1000+ शब्द |
