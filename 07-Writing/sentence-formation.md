@@ -9,7 +9,7 @@ By the end of this guide, you will be able to:
 - ✅ Understand Marathi sentence structure (SOV)
 - ✅ Form simple sentences correctly
 - ✅ Use proper word order
-- ✅ Write compound and complex sentences
+- ✅ Write compound and complex sentences 
 - ✅ Apply correct grammar in writing
 
 ---
