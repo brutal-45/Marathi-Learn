@@ -15,7 +15,7 @@ Store visual learning materials including:
 ## Guidelines
 
 - Use descriptive filenames (e.g., `marathi-alphabet-chart.png`)
-- Optimize images for web (compressed, appropriate dimensions)
+- Optimize images for web (compressed, appropriate dimensions) 
 - Include alt text descriptions when using in documentation
 - Organize into subdirectories if collection grows large
 
