@@ -9,7 +9,7 @@ Store audio learning materials including:
 - Alphabet pronunciation recordings
 - Vocabulary word pronunciations
 - Conversation dialogues
-- Listening practice exercises
+- Listening practice exercises 
 - Native speaker recordings
 
 ## Guidelines
