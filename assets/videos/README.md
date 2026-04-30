@@ -13,7 +13,7 @@ Store video learning materials including:
 - Grammar explanations
 - Interactive lessons
 
-## Guidelines
+## Guidelines 
 
 - Keep videos concise and focused
 - Include clear audio and visuals
