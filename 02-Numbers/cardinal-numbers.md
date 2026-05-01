@@ -402,7 +402,7 @@ Answer these questions in Marathi:
 1. दहा
 2. दहा
 3. पन्नास
-4. पन्नास
+4. पन्नास 
 
 ---
 
