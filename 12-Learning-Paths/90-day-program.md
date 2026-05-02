@@ -6,7 +6,7 @@ A thorough, structured program taking you from complete beginner to intermediate
 
 | Month | Focus | Skills Developed |
 |-------|-------|------------------|
-| Month 1 | Foundation | Script mastery, basic grammar, essential vocabulary |
+| Month 1 | Foundation | Script mastery, basic grammar, essential vocabulary | 
 | Month 2 | Building | Complex grammar, expanded vocabulary, conversations |
 | Month 3 | Fluency | Reading comprehension, writing skills, cultural fluency |
 
