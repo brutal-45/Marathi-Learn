@@ -30,7 +30,7 @@ A flexible, self-paced approach for independent learners. Customize your learnin
 **Outcome:** Personalized proficiency based on goals
 
 ---
-
+ 
 ### 📊 [Progress Tracker](./progress-tracker.md)
 Templates and tools to track your learning journey. Includes daily, weekly, and monthly tracking sheets with milestone markers.
 
