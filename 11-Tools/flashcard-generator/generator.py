@@ -2,7 +2,7 @@
 """
 Flashcard Generator for Marathi Learning
 
-This script generates customizable flashcards for Marathi vocabulary practice.
+This script generates customizable flashcards for Marathi vocabulary practice. 
 It supports various input formats and can export to multiple output formats
 including plain text, JSON, and Anki-compatible format.
 
