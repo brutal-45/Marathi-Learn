@@ -6,7 +6,7 @@ This section contains useful tools and utilities to enhance your Marathi learnin
 
 ### 1. Transliteration Tool
 **Location:** `transliteration-tool/script.py`
-
+ 
 Convert English text (Latin script) to Devanagari script. This tool helps learners who are more comfortable with English script to write Marathi.
 
 **Features:**
