@@ -2,7 +2,7 @@
 """
 Quiz Generator for Marathi Language Learning
 
-This script generates interactive quizzes for testing Marathi language skills.
+This script generates interactive quizzes for testing Marathi language skills. 
 It supports multiple question types, difficulty levels, and can create
 customized quizzes from vocabulary lists.
 
