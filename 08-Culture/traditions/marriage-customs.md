@@ -53,7 +53,7 @@ Marathi weddings (मराठी लग्न) are vibrant celebrations that bl
 
 ---
 
-## Wedding Day Rituals | लग्नाच्या दिवशीचे विधी
+## Wedding Day Rituals | लग्नाच्या दिवशीचे विधी   
 
 ### 1. Muhurta (मुहूर्त)
 
