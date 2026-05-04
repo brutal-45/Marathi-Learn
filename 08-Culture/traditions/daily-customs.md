@@ -69,7 +69,7 @@ A traditional prayer recited upon waking:
 | Person | Greeting | Marathi |
 |--------|----------|---------|
 | General | Namaskar | नमस्कार |
-| Elders | Touch feet | पाय लागणे |
+| Elders | Touch feet | पाय लागणे | 
 | Women | Namaskar | नमस्कार |
 | Priests | Pranam | प्रणाम |
 
