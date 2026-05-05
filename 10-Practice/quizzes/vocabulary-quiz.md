@@ -11,7 +11,7 @@ How do you say "Hello" in Marathi?
 
 - A) धन्यवाद
 - B) नमस्कार
-- C) शुभ रात्री
+- C) शुभ रात्री  
 - D) पुन्हा भेटू
 
 ### Question 2
