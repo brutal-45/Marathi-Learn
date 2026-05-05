@@ -8,7 +8,7 @@ Test your Marathi grammar knowledge with 50 comprehensive questions.
 
 ### Question 1
 What is the gender of "पुस्तक" (book)?
-
+ 
 - A) Masculine (पुल्लिंगी)
 - B) Feminine (स्त्रीलिंगी)
 - C) Neuter (नपुंसकलिंगी)
