@@ -1,4 +1,10 @@
+<div align="center">
+
 # Compound Verbs in Marathi | मराठीतील संयुक्त क्रियापद
+
+</div>
+
+---
 
 <div align="center">
 
