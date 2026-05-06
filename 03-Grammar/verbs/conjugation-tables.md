@@ -1,4 +1,10 @@
+<div align="center">
+
 # Marathi Verb Conjugation Tables | मराठी क्रियापद रूप सारण्या
+
+</div>
+
+---
 
 <div align="center">
 
