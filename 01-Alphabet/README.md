@@ -2,7 +2,7 @@
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
-By completing this section, you will be able to:
+By completing this section, you will be able to: 
 
 - **Identify and pronounce** all 12 vowels (स्वर) of the Marathi language
 - **Recognize and articulate** all 36 consonants (व्यंजन) with correct pronunciation
