@@ -3,7 +3,7 @@
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
 By the end of this guide, you will be able to:
-
+ 
 - **Pronounce** all Marathi sounds accurately 
 - **Distinguish** between similar-sounding consonants
 - **Master** dental vs. retroflex distinctions
