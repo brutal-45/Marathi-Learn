@@ -405,7 +405,7 @@
 | Good afternoon | शुभ दुपार | Shubh Dupar | Afternoon greeting |
 | Good evening | शुभ संध्याकाळ | Shubh Sandhyakal | Evening greeting |
 | Good night | शुभ रात्री | Shubh Ratri | Night farewell |
-
+ 
 ### Essential Phrases | आवश्यक वाक्ये
 
 | English | Marathi | Transliteration |
