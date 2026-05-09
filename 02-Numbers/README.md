@@ -2,7 +2,7 @@
 
 ## Introduction | परिचय
 
-Welcome to the Numbers section of the Learn Marathi course! Numbers are fundamental to everyday communication, whether you're shopping, telling time, discussing dates, or simply counting. This section provides a comprehensive guide to the Marathi number system, from basic counting to complex numerical expressions.
+Welcome to the Numbers section of the Learn Marathi course! Numbers are fundamental to everyday communication, whether you're shopping, telling time, discussing dates, or simply counting. This section provides a comprehensive guide to the Marathi number system, from basic counting to complex numerical expressions. 
 
 मराठी शिकण्याच्या कोर्समधील संख्या विभागात आपले स्वागत आहे! खरेदी करताना, वेळ सांगताना, तारखा चर्चा करताना किंवा फक्त मोजताना, संख्या दैनंदिन संवादासाठी मूलभूत आहेत.
 
