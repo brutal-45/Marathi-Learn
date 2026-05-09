@@ -20,7 +20,7 @@ Translate these English number words to Marathi:
 | 4 | Twelve | |
 | 5 | Fifteen | |
 | 6 | Twenty | |
-| 7 | Twenty-five | |
+| 7 | Twenty-five | | 
 | 8 | Thirty | |
 | 9 | Forty-two | |
 | 10 | Fifty | |
