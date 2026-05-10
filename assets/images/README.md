@@ -6,7 +6,7 @@ This directory contains image assets for the Learn Marathi project.
 
 Store visual learning materials including:
 
-- Alphabet charts and writing guides
+- Alphabet charts and writing guides 
 - Vocabulary flashcard images
 - Cultural photographs
 - Diagrams and infographics
