@@ -42,7 +42,7 @@ By the end of this lesson, you will be able to:
 
 ### Asking the Time | वेळ विचारणे
 
-| English | Marathi | Transliteration |
+| English | Marathi | Transliteration | 
 |---------|---------|-----------------|
 | What time is it? | किती वाजले आहेत? | kitī vājale āhet? |
 | What is the time? | वेळ किती झाली? | veḷ kitī jhālī? |
