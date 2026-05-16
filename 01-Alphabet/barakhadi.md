@@ -1,6 +1,6 @@
 # Barakhadi | बाराखडी
 
-## Learning Objectives | शिक्षण उद्दिष्ट्ये
+## Learning Objectives | शिक्षण उद्दिष्ट्ये 
  
 By the end of this lesson, you will be able to:
 
