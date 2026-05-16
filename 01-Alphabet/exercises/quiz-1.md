@@ -3,7 +3,7 @@
 ## Quiz Information | क्विझ माहिती
 
 - **Total Questions:** 50
-- **Topics Covered:** Vowels, Consonants, Barakhadi, Transliteration
+- **Topics Covered:** Vowels, Consonants, Barakhadi, Transliteration 
 - **Time:** Self-paced
 - **Passing Score:** 80%
 
