@@ -1,6 +1,6 @@
 # Video Assets
 
-This directory contains video content for the Learn Marathi project.
+This directory contains video content for the Learn Marathi project. 
 
 ## Purpose
 
