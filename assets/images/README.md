@@ -1,6 +1,6 @@
 # Images Assets
 
-This directory contains image assets for the Learn Marathi project.
+This directory contains image assets for the Learn Marathi project. 
 
 ## Purpose
 
