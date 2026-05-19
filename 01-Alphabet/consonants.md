@@ -46,7 +46,7 @@ Marathi consonants are classified by:
 
 ---
 
-## 1. Velar Consonants (कंठ्य) | गलकोशीय व्यंजन
+## 1. Velar Consonants (कंठ्य) | गलकोशीय व्यंजन 
 
 These sounds are produced at the back of the throat (velum).
 
