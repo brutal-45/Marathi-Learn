@@ -22,7 +22,7 @@ Marathi has several sounds that don't exist in English. This guide focuses on ma
 1. **Meaning Changes:** Vowel length and consonant distinctions change word meanings
 2. **Mutual Understanding:** Poor pronunciation can lead to miscommunication
 3. **Respect:** Good pronunciation shows respect for the language and its speakers
-4. **Listening Skills:** Understanding pronunciation helps you hear correctly
+4. **Listening Skills:** Understanding pronunciation helps you hear correctly 
 
 ---
 
