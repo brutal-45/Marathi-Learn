@@ -20,7 +20,7 @@ Vowels (स्वर - svara) are the foundation of any Indian language. In Mara
 ### Types of Vowels | स्वरांचे प्रकार
 
 | Type | Marathi | Examples |
-|------|---------|----------|
+|------|---------|----------| 
 | **Short vowels** | ह्रस्व स्वर | अ, इ, उ |
 | **Long vowels** | दीर्घ स्वर | आ, ई, ऊ, ए, ऐ, ओ, औ |
 | **Vocalic** | वर्णांतर | ऋ |
