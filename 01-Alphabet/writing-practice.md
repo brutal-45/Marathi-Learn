@@ -116,7 +116,7 @@ Step 1: Draw a small curve facing right
         ◠
 Step 2: Add a vertical line below
         ◠
-        │
+        │ 
 Step 3: Add the headline
         ─◠
          │
