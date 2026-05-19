@@ -1,4 +1,4 @@
-# Marathi Alphabet | मराठी वर्णमाला 
+# Marathi Alphabet | मराठी वर्णमाला
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
