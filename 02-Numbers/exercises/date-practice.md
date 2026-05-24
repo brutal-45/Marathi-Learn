@@ -22,7 +22,7 @@ This exercise set focuses on writing dates, understanding days and months, and u
 | 6 | Friday | शुक्रवार |
 | 7 | Saturday | शनिवार |
 
-### Months of the Year | वर्षातील महिने
+### Months of the Year | वर्षातील महिने 
 
 | # | English | Marathi |
 |---|---------|---------|
