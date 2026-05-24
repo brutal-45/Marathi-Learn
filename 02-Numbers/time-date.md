@@ -27,18 +27,18 @@ By the end of this lesson, you will be able to:
 
 | English | Marathi | Transliteration |
 |---------|---------|-----------------|
-| Time | वेळ | veḷ |
-| Hour | तास | tās |
-| Minute | मिनिट | miniṭ |
-| Second | सेकंद | sekand |
-| Clock | घड्याळ | ghaḍyāḷ |
-| Watch | घड्याळ | ghaḍyāḷ |
-| Morning | सकाळ | sakāḷ |
-| Afternoon | दुपार | dupār |
-| Evening | संध्याकाळ | sandhyākāḷ |
-| Night | रात्र | rātr |
-| Midnight | मध्यरात्र | madhyarātr |
-| Noon | दुपारी बारा वाजता | dupārī bārā vājtā |
+| Time | वेळ | vel |
+| Hour | तास | tas |
+| Minute | मिनिट | minit |
+| Second | सेकंद | second |
+| Clock | घड्याळ | ghadyal |
+| Watch | घड्याळ | ghadyal |
+| Morning | सकाळ | sakal |
+| Afternoon | दुपार | dupar |
+| Evening | संध्याकाळ | sandhyakali |
+| Night | रात्र | ratri |
+| Midnight | मध्यरात्र | madhyaratri |
+| Noon | दुपारी बारा वाजता | dupari bara vajta |
 
 ### Asking the Time | वेळ विचारणे
 
