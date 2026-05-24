@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct | योगदानकर्ता करार आचार संहिता 
+# Contributor Covenant Code of Conduct | योगदानकर्ता करार आचार संहिता
 
 ## Our Pledge | आमची प्रतिज्ञा
 
