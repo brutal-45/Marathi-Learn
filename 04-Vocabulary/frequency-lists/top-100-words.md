@@ -1,5 +1,5 @@
 # Top 100 Most Common Marathi Words
-
+ 
 These are the 100 most frequently used words in Marathi. Mastering these words will help you understand approximately 50% of everyday Marathi conversations. 
 
 ## 📋 Quick Reference
@@ -14,7 +14,7 @@ These are the 100 most frequently used words in Marathi. Mastering these words w
 | 6 | we | आपण | āpaṇ | आपण चलू या. (Let's go.) |
 | 7 | we (exclusive) | आम्ही | āmhī | आम्ही घरी आहोत. (We are at home.) |
 | 8 | they | ते | te | ते शाळेत आहेत. (They are at school.) |
-| 9 | this | हा / ही / हे | hā / hī / he | हे पुस्तक आहे. (This is a book.) |
+| 9 | this | हा / ही / हे | ha / hi / he | हे पुस्तक आहे. (This is a book.) |
 | 10 | that | तो / ती / ते | to / tī / te | ते घर मोठे आहे. (That house is big.) |
 | 11 | is/are (to be) | आहे / आहेत | āhe / āhet | तो आहे. (He/It is there.) |
 | 12 | not | नाही / नाहीत | nāhī / nāhīt | मला माहित नाही. (I don't know.) |
