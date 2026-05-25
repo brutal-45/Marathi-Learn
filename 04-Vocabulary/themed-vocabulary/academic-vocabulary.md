@@ -6,18 +6,18 @@ Education and academic vocabulary in Marathi.
 
 | English | Marathi | Transliteration | Example Sentence |
 |---------|---------|-----------------|------------------|
-| School | शाळा | śāḷā | शाळा सकाळी सात वाजता सुरू होते. (School starts at 7 AM.) |
-| College | महाविद्यालय | mahāvidyālaya | महाविद्यालयात प्रवेश घेतला. (Got admission in college.) |
-| University | विद्यापीठ | vidyāpīṭha | विद्यापीठात मोठे ग्रंथालय आहे. (University has big library.) |
-| Institute | संस्था | saṃsthā | ही संस्था प्रसिद्ध आहे. (This institute is famous.) |
-| Classroom | वर्गखोली | vargakhōḷī | वर्गखोली मोठी आहे. (Classroom is big.) |
-| Library | ग्रंथालय | graṃthālaya | ग्रंथालयात शांतता आहे. (There is silence in library.) |
-| Laboratory | प्रयोगशाळा | prayōgaśāḷā | प्रयोगशाळेत प्रयोग करतात. (Experiments done in laboratory.) |
-| Hostel | वसतिगृह | vasatigṛha | वसतिगृहात राहतो. (Stays in hostel.) |
-| Playground | क्रीडांगण | krīḍāṅgaṇa | क्रीडांगणात खेळतात. (Play in playground.) |
-| Auditorium | सभागृह | sabhāgṛha | सभागृहात कार्यक्रम आहे. (Program in auditorium.) |
-| Canteen | कँटीन | kāṃṭīna | कँटीनमध्ये जेवण मिळते. (Food available in canteen.) |
-| Office | कार्यालय | kāryālaya | कार्यालयात जा. (Go to office.) |
+| School | शाळा | shala | शाळा सकाळी सात वाजता सुरू होते. (School starts at 7 AM.) |
+| College | महाविद्यालय | mahavidhyalay | महाविद्यालयात प्रवेश घेतला. (Got admission in college.) |
+| University | विद्यापीठ | vidypithat | विद्यापीठात मोठे ग्रंथालय आहे. (University has big library.) |
+| Institute | संस्था | saunstha | ही संस्था प्रसिद्ध आहे. (This institute is famous.) |
+| Classroom | वर्गखोली | vargakholi | वर्गखोली मोठी आहे. (Classroom is big.) |
+| Library | ग्रंथालय | granthalay | ग्रंथालयात शांतता आहे. (There is silence in library.) |
+| Laboratory | प्रयोगशाळा | prayogshala | प्रयोगशाळेत प्रयोग करतात. (Experiments done in laboratory.) |
+| Hostel | वसतिगृह | vasatigruh | वसतिगृहात राहतो. (Stays in hostel.) |
+| Playground | क्रीडांगण | kridangan | क्रीडांगणात खेळतात. (Play in playground.) |
+| Auditorium | सभागृह | sabhagruh | सभागृहात कार्यक्रम आहे. (Program in auditorium.) |
+| Canteen | कँटीन | kaintine | कँटीनमध्ये जेवण मिळते. (Food available in canteen.) |
+| Office | कार्यालय | karyalay | कार्यालयात जा. (Go to office.) |
 
 ## Academic Terms - शैक्षणिक संज्ञा
 
