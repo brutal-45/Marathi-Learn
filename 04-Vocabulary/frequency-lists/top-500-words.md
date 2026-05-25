@@ -8,11 +8,11 @@ This extended vocabulary list builds upon the [Top 100 Words](./top-100-words.md
 
 | # | English | Marathi | Transliteration | Example Sentence |
 |---|---------|---------|-----------------|------------------| 
-| 101 | myself | स्वतः | svataḥ | मी स्वतः आलो. (I came myself.) |
-| 102 | yourself | स्वतः | svataḥ | तू स्वतः कर. (Do it yourself.) |
-| 103 | himself/herself | स्वतः | svataḥ | तो स्वतः आला. (He came himself.) |
-| 104 | everyone | सगळे | sagaḷe | सगळे लोक आले. (Everyone came.) |
-| 105 | someone | कोणीतरी | koṇītarī | कोणीतरी आले होते. (Someone had come.) |
+| 101 | myself | स्वतः | svatah | मी स्वतः आलो. (I came myself.) |
+| 102 | yourself | स्वतः | svatah | तू स्वतः कर. (Do it yourself.) |
+| 103 | himself/herself | स्वतः | svatah | तो स्वतः आला. (He came himself.) |
+| 104 | everyone | सगळे | sagale | सगळे लोक आले. (Everyone came.) |
+| 105 | someone | कोणीतरी | konitari | कोणीतरी आले होते. (Someone had come.) |
 | 106 | nobody | कोणीही नाही | koṇīhī nāhī | तिथे कोणीही नाही. (Nobody is there.) |
 | 107 | something | काहीतरी | kāhītarī | काहीतरी खायचे आहे. (Want to eat something.) |
 | 108 | nothing | काहीही नाही | kāhīhī nāhī | काहीही नाही. (Nothing at all.) |
