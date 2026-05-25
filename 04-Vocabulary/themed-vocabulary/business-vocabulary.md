@@ -6,11 +6,11 @@ Business and commerce vocabulary in Marathi.
 
 | English | Marathi | Transliteration | Example Sentence |
 |---------|---------|-----------------|------------------|
-| Office | कार्यालय | kāryālaya | कार्यालय सकाळी दहा वाजता उघडते. (Office opens at 10 AM.) |
-| Meeting | बैठक | baiṭhaka | आज दुपारी बैठक आहे. (There is a meeting this afternoon.) |
-| Officer | अधिकारी | adhikārī | अधिकारी कागदपत्रांवर सही करतात. (Officer signs documents.) |
-| Desk | टेबल | ṭebala | टेबलवर सर्व कागदपत्रे आहेत. (All papers are on the desk.) |
-| File | फाईल | phā'ila | कृपया ही फाईल आणा. (Please bring this file.) |
+| Office | कार्यालय | karyalay | कार्यालय सकाळी दहा वाजता उघडते. (Office opens at 10 AM.) |
+| Meeting | बैठक | baithak | आज दुपारी बैठक आहे. (There is a meeting this afternoon.) |
+| Officer | अधिकारी | adhikari | अधिकारी कागदपत्रांवर सही करतात. (Officer signs documents.) |
+| Desk | टेबल | table | टेबलवर सर्व कागदपत्रे आहेत. (All papers are on the desk.) |
+| File | फाईल | file | कृपया ही फाईल आणा. (Please bring this file.) |
 | Document | कागदपत्र | kāgadapatra | हे कागदपत्र महत्त्वाचे आहे. (This document is important.) |
 | Report | अहवाल | ahavāla | अहवाल तयार आहे. (Report is ready.) |
 | Letter | पत्र | patra | पत्र टपालाने पाठवा. (Send letter by post.) |
