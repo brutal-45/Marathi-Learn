@@ -1,4 +1,4 @@
-# Marathi Sayings and Expressions (वाक्प्रचार)
+# Marathi Sayings and Expressions (वाक्प्रचार) 
 
 Common Marathi sayings and expressions (वाक्प्रचार - vākpracāra) used in daily conversation.
 
