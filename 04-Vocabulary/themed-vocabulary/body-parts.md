@@ -6,17 +6,17 @@ Body parts vocabulary in Marathi.
 
 | English | Marathi | Transliteration | Example Sentence |
 |---------|---------|-----------------|------------------|
-| Head | डोके | ḍoke | डोके दुखते आहे. (Head is paining.) |
-| Hair | केस | kesa | केस काळे आहेत. (Hair is black.) |
-| Face | चेहरा | ceharā | चेहरा सुंदर आहे. (Face is beautiful.) |
-| Forehead | कपाळ | kapāḷa | कपाळावर टिळक आहे. (There is tilak on forehead.) |
-| Eye | डोळा | ḍoḷā | डोळे मोठे आहेत. (Eyes are big.) |
-| Ear | कान | kāna | कान ऐकतात. (Ears hear.) |
-| Nose | नाक | nāka | नाकाने वास घ्या. (Smell with nose.) |
-| Mouth | तोंड | toṇḍa | तोंड उघडा. (Open mouth.) |
-| Lip | ओठ | oṭha | ओठ लाल आहेत. (Lips are red.) |
-| Tooth | दात | dāta | दात स्वच्छ आहेत. (Teeth are clean.) |
-| Tongue | जीभ | jībha | जीभेने चव येते. (Taste comes from tongue.) |
+| Head | डोके | doke | डोके दुखते आहे. (Head is paining.) |
+| Hair | केस | kes | केस काळे आहेत. (Hair is black.) |
+| Face | चेहरा | cehara | चेहरा सुंदर आहे. (Face is beautiful.) |
+| Forehead | कपाळ | kapal | कपाळावर टिळक आहे. (There is tilak on forehead.) |
+| Eye | डोळा | dola | डोळे मोठे आहेत. (Eyes are big.) |
+| Ear | कान | kan | कान ऐकतात. (Ears hear.) |
+| Nose | नाक | nak | नाकाने वास घ्या. (Smell with nose.) |
+| Mouth | तोंड | tond | तोंड उघडा. (Open mouth.) |
+| Lip | ओठ | otha | ओठ लाल आहेत. (Lips are red.) |
+| Tooth | दात | data | दात स्वच्छ आहेत. (Teeth are clean.) |
+| Tongue | जीभ | jibha | जीभेने चव येते. (Taste comes from tongue.) |
 
 ## Upper Body
 
