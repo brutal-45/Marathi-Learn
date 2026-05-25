@@ -1,4 +1,4 @@
-# Animals - प्राणी
+# Animals - प्राणी 
 
 Common animals and related vocabulary in Marathi.
 
