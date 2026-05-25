@@ -1,4 +1,4 @@
-# Top 1000 Most Common Marathi Words
+# Top 1000 Most Common Marathi Words 
 
 This comprehensive vocabulary list contains the 1000 most frequently used words in Marathi, organized by grammatical categories for effective learning. Mastering these words will help you understand approximately 80% of everyday Marathi conversations.
 
