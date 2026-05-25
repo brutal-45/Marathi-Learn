@@ -1,4 +1,4 @@
-# Marathi Proverbs (मराठी म्हणी)
+# Marathi Proverbs (मराठी म्हणी) 
 
 Traditional Marathi proverbs (म्हणी - mhaṇī) are wise sayings passed down through generations. They contain cultural wisdom and practical life lessons.
 
