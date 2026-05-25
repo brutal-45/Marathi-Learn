@@ -1,4 +1,4 @@
-# Common Marathi Idioms (मराठी म्हणी व वाक्प्रचार)
+# Common Marathi Idioms (मराठी म्हणी व वाक्प्रचार) 
 
 This section covers commonly used Marathi idioms with their meanings and usage examples.
 
