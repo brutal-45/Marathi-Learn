@@ -2,7 +2,7 @@
 """
 Quiz Generator for Marathi Language Learning
 
-This script generates interactive quizzes for testing Marathi language skills. 
+This script generates interactive quizzes for testing Marathi language skills.
 It supports multiple question types, difficulty levels, and can create
 customized quizzes from vocabulary lists.
 
@@ -17,7 +17,7 @@ import random
 import os
 from datetime import datetime
 from typing import List, Dict, Tuple, Optional, Callable
-from enum import Enum
+from enum import Enum 
 
 
 class QuestionType(Enum):
