@@ -13,7 +13,7 @@ Example:
     'मी मराठी शिकतो'
 """
 
-# Mapping tables for transliteration
+# Mapping tables for transliteration 
 # Vowels (स्वर)
 VOWELS = {
     'a': 'अ', 'aa': 'आ', 'A': 'आ', 'i': 'इ', 'ii': 'ई', 'I': 'ई',
