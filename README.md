@@ -464,7 +464,7 @@
 
 ### Built-in Tools | अंतर्निहित साधने
 
-| Tool | Description | Link |
+| Tool | Description | Link | 
 |------|-------------|------|
 | Transliteration Tool | Convert English to Devanagari | [Tool →](./11-Tools/transliteration-tool/) |
 | Flashcard Generator | Create custom flashcards | [Tool →](./11-Tools/flashcard-generator/) |
