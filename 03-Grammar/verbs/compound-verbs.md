@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Complete Guide to Compound Verbs
+## Complete Guide to Compound Verbs 
 ## संयुक्त क्रियापदांचे संपूर्ण मार्गदर्शक
 
 </div>
