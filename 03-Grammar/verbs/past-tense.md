@@ -1,6 +1,6 @@
-# Past Tense in Marathi | मराठीतील भूतकाळ
-
 <div align="center">
+
+# Past Tense in Marathi | मराठीतील भूतकाळ
 
 ## Complete Guide to Past Tense Conjugation
 ## भूतकाळाचे संपूर्ण मार्गदर्शक
