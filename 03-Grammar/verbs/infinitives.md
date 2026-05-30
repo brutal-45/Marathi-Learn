@@ -1,6 +1,6 @@
-# Infinitives in Marathi | मराठीतील धातुसाधित
-
 <div align="center">
+
+# Infinitives in Marathi | मराठीतील धातुसाधित
 
 ## Complete Guide to Marathi Infinitives
 ## मराठी धातुसाधितांचे संपूर्ण मार्गदर्शक
