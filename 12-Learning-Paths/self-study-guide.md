@@ -1,4 +1,4 @@
-# Self-Study Guide for Learning Marathi
+# Self-Study Guide for Learning Marathi 
 
 A flexible, customizable guide for independent learners. Design your own learning path based on your goals, available time, and interests.
 
