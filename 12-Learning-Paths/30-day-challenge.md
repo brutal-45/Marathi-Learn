@@ -1,4 +1,4 @@
-# 30-Day Marathi Learning Challenge
+# 30-Day Marathi Learning Challenge 
 
 A structured 30-day program to build a solid foundation in Marathi. Perfect for motivated beginners who can dedicate 30-60 minutes daily.
 
