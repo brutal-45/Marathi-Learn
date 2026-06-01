@@ -1,4 +1,4 @@
-# Learning Paths
+# Learning Paths 
 
 Welcome to the Learning Paths section! This folder contains structured learning programs to help you learn Marathi systematically.
 
