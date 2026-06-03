@@ -1,4 +1,4 @@
-# Alphabet Recognition Quiz | वर्णमाला ओळख क्विझ
+# Alphabet Recognition Quiz | वर्णमाला ओळख क्विझ 
 
 ## Quiz Information | क्विझ माहिती
 
