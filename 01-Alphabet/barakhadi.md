@@ -1,4 +1,4 @@
-# Barakhadi | बाराखडी
+# Barakhadi | बाराखडी 
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये 
  
