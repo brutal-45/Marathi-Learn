@@ -23,7 +23,7 @@ Store video learning materials including:
 
 ## Supported Formats
 
-- MP4 (recommended for compatibility)
+- MP4 (recommended for compatibility) 
 - WebM (for web optimization)
 - MOV (for source files)
 
