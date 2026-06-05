@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct | योगदानकर्ता करार आचार संहिता
 
-## Our Pledge | आमची प्रतिज्ञा
+## Our Pledge | आमची प्रतिज्ञा 
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
