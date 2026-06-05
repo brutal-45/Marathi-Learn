@@ -115,7 +115,7 @@
 
 ---
 
-## 📚 Complete Curriculum | संपूर्ण अभ्यासक्रम
+## 📚 Complete Curriculum | संपूर्ण अभ्यासक्रम 
 
 ### Level 1: Beginner (Foundations) | सुरुवातीचे स्तर
 
