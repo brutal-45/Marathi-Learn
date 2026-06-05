@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the Learn Marathi project! This document provides guidelines and instructions for contributing.
 
-धन्यवाद! मराठी शिका प्रकल्पात योगदान देण्याच्या तुमच्या रसाबद्दल! हा दस्तावेज योगदानासाठी मार्गदर्शक तत्त्वे आणि सूचना प्रदान करतो.
+धन्यवाद! मराठी शिका प्रकल्पात योगदान देण्याच्या तुमच्या रसाबद्दल! हा दस्तावेज योगदानासाठी मार्गदर्शक तत्त्वे आणि सूचना प्रदान करतो. 
 
 ---
 
