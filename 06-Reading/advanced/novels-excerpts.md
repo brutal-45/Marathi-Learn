@@ -1,6 +1,6 @@
 # Novel Excerpts (कादंबरी अंश)
 
-Excerpts from famous Marathi novels with author introductions, context, and analysis for advanced learners.
+Excerpts from famous Marathi novels with author introductions, context, and analysis for advanced learners. 
 
 ---
 
