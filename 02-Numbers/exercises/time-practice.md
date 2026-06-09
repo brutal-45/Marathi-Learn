@@ -10,7 +10,7 @@ This exercise set focuses on telling time, understanding time expressions, and u
 
 ## Quick Reference | द्रुत संदर्भ
 
-### Numbers for Time | वेळेसाठी संख्या
+### Numbers for Time | वेळेसाठी संख्या 
 
 | # | Marathi | Transliteration |
 |---|---------|-----------------|
