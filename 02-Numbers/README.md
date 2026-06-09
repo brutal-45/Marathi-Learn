@@ -1,4 +1,4 @@
-# Numbers | संख्या 
+# Numbers | संख्या
 
 ## Introduction | परिचय
 
