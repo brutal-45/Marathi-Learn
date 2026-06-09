@@ -95,7 +95,7 @@ This exercise set focuses on writing dates, understanding days and months, and u
 | 4 | ऑगस्ट | |
 | 5 | ऑक्टोबर | |
 
-### Part C: Which month comes after?
+### Part C: Which month comes after? 
 
 | # | Given Month | Next Month |
 |---|-------------|------------|
