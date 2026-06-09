@@ -1,6 +1,6 @@
 # Cardinal Numbers | मूळ संख्या
 
-## Introduction | परिचय 
+## Introduction | परिचय
 
 Cardinal numbers (मूळ संख्या) are used for counting and indicating quantity. They answer the question "How many?" This comprehensive guide covers everything from basic counting to the unique Indian numbering system.
 
