@@ -47,7 +47,7 @@ pip install indic-transliteration
 pip install genanki
 
 # Optional: For rich terminal output
-pip install rich
+pip install rich 
 ```
 
 ## Quick Start
