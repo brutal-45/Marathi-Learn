@@ -109,7 +109,7 @@ def transliterate_word(word):
                 # This is a vowel marker after consonant
                 pass
             
-            # Check for consonants
+            # Check for consonants 
             if two_char in CONSONANTS:
                 result.append(CONSONANTS[two_char])
                 i += 2
