@@ -2,7 +2,7 @@
  
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to: 
 
 - **Identify** all 36 Marathi consonants in written form
 - **Pronounce** each consonant correctly with proper aspiration 
