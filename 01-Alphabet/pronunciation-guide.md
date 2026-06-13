@@ -1,6 +1,6 @@
 # Marathi Pronunciation Guide | मराठी उच्चार मार्गदर्शक
 
-## Learning Objectives | शिक्षण उद्दिष्ट्ये
+## Learning Objectives | शिक्षण उद्दिष्ट्ये 
 
 By the end of this guide, you will be able to:
  
