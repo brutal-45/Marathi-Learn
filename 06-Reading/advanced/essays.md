@@ -2,7 +2,7 @@
 
 Sample essays in Marathi for advanced learners. Each essay demonstrates formal writing style, structured arguments, and rich vocabulary.
 
---- 
+---
 
 ## 1. Essay on Environment - पर्यावरण वर निबंध
 
