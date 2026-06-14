@@ -1,6 +1,6 @@
 # Philosophical Writings (तात्त्विक लेखन)
 
-Sacred and philosophical texts from Marathi saint literature including Dnyaneshwari, Tukaram Gatha, and other saints' writings. 
+Sacred and philosophical texts from Marathi saint literature including Dnyaneshwari, Tukaram Gatha, and other saints' writings.
 
 ---
 
