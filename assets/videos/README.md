@@ -6,7 +6,7 @@ This directory contains video content for the Learn Marathi project.
 
 Store video learning materials including:
 
-- Alphabet writing demonstrations 
+- Alphabet writing demonstrations
 - Pronunciation tutorials
 - Conversation practice videos
 - Cultural documentaries
