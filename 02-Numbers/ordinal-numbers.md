@@ -1,4 +1,4 @@
-# Ordinal Numbers | क्रमवाचक संख्या 
+# Ordinal Numbers | क्रमवाचक संख्या
 
 ## Introduction | परिचय
 
