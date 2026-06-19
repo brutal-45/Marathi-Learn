@@ -1,4 +1,4 @@
-# Cardinal Numbers | मूळ संख्या
+# Cardinal Numbers | मूळ संख्या 
 
 ## Introduction | परिचय
 
