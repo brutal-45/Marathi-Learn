@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3            
 """
 English to Devanagari Transliteration Tool for Marathi
 
