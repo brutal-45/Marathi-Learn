@@ -1,4 +1,4 @@
-# 90-Day Comprehensive Marathi Program
+# 90-Day Comprehensive Marathi Program 
 
 A thorough, structured program taking you from complete beginner to intermediate proficiency. Includes all language skills: reading, writing, speaking, and listening, plus cultural context.
 
