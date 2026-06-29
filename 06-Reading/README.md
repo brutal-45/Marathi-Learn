@@ -1,4 +1,4 @@
-# Reading Section (वाचन विभाग) 
+# Reading Section (वाचन विभाग)
 
 Welcome to the Reading section! This section is designed to help you practice reading Marathi through progressively challenging materials.
 
