@@ -1,4 +1,4 @@
-# Essays (निबंध)
+# Essays (निबंध) 
 
 Sample essays in Marathi for advanced learners. Each essay demonstrates formal writing style, structured arguments, and rich vocabulary.
 
