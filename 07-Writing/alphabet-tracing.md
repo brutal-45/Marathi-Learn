@@ -1,4 +1,4 @@
-# Alphabet Tracing Guide | वर्णमाला ट्रेसिंग मार्गदर्शक
+# Alphabet Tracing Guide | वर्णमाला ट्रेसिंग मार्गदर्शक 
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
