@@ -1,4 +1,4 @@
-# Simple Sentences (साधी वाक्ये)
+# Simple Sentences (साधी वाक्ये) 
 
 Practice reading basic Marathi sentences for everyday situations.
 
