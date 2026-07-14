@@ -1,4 +1,4 @@
-# Folk Tales (लोककथा)
+# Folk Tales (लोककथा) 
 
 Traditional Marathi folk tales passed down through generations. These stories reflect the wisdom, culture, and values of Maharashtra.
 
