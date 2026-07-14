@@ -1,4 +1,4 @@
-# Short Stories (लघुकथा)
+# Short Stories (लघुकथा) 
 
 Intermediate level short stories in Marathi. These stories feature more complex vocabulary and sentence structures.
 
