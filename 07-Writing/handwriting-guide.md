@@ -1,4 +1,4 @@
-# Handwriting Guide | सुलेख मार्गदर्शक
+# Handwriting Guide | सुलेख मार्गदर्शक 
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
