@@ -1,4 +1,4 @@
-# Essay Writing Guide | निबंध लेखन मार्गदर्शक 
+# Essay Writing Guide | निबंध लेखन मार्गदर्शक
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
 
