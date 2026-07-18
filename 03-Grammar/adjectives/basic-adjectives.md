@@ -44,9 +44,9 @@ These adjectives change their endings based on the gender and number of the noun
 
 | Gender | Singular Form | Example | Plural Form | Example |
 |--------|---------------|---------|-------------|---------|
-| **Masculine** | मोठा (moṭhā) | मोठा मुलगा (big boy) | मोठे (moṭhe) | मोठे मुलगे (big boys) |
-| **Feminine** | मोठी (moṭhī) | मोठी मुलगी (big girl) | मोठ्या (moṭhyā) | मोठ्या मुली (big girls) |
-| **Neuter** | मोठे (moṭhe) | मोठे घर (big house) | मोठी (moṭhī) | मोठी घरे (big houses) |
+| **Masculine** | मोठा (motha) | मोठा मुलगा (big boy) | मोठे (moṭhe) | मोठे मुलगे (big boys) |
+| **Feminine** | मोठी (mothi) | मोठी मुलगी (big girl) | मोठ्या (moṭhyā) | मोठ्या मुली (big girls) |
+| **Neuter** | मोठे (mothe) | मोठे घर (big house) | मोठी (moṭhī) | मोठी घरे (big houses) |
 
 **Example Sentences:**
 
