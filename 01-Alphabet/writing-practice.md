@@ -704,17 +704,17 @@ When vowels combine with consonants, they become diacritical marks.
 | Vowel | Diacritic | Position | Example |
 |-------|-----------|----------|---------|
 | अ (a) | — | Inherent | क = ka |
-| आ (ā) | ा | After consonant | का = kā |
+| आ (Aa) | ा | After consonant | का = ka |
 | इ (i) | ि | **Before** consonant | कि = ki |
-| ई (ī) | ी | After consonant | की = kī |
+| ई (i) | ी | After consonant | की = kī |
 | उ (u) | ु | Below consonant | कु = ku |
-| ऊ (ū) | ू | Below consonant | कू = kū |
-| ऋ (ṛ) | ृ | Below consonant | कृ = kṛ |
+| ऊ (u) | ू | Below consonant | कू = ku |
+| ऋ (r) | ृ | Below consonant | कृ = kr |
 | ए (e) | े | Above consonant | के = ke |
 | ऐ (ai) | ै | Above consonant | कै = kai |
 | ओ (o) | ो | Above consonant | को = ko |
 | औ (au) | ौ | Above consonant | कौ = kau |
-| अं (aṃ) | ं | Above (after headline) | कं = kaṃ |
+| अं (am) | ं | Above (after headline) | कं = kam |
 
 ### Important Note on इ (i) Diacritic
 
@@ -921,7 +921,7 @@ Traditionally, children begin their education with a ceremony called अक्�
 
 1. The child is seated on the lap of an elder
 2. The elder guides the child's hand to write the first letter
-3. The first letter written is usually ओम् (Om) or श्री (Śrī)
+3. The first letter written is usually ओम् (Om) or श्री (Shri)
 4. This is done on a plate of rice, symbolizing a fruitful educational journey
 
 This tradition emphasizes the sacred nature of learning to write in Indian culture.
