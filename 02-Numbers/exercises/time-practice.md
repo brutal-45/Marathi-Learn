@@ -1,4 +1,4 @@
-# Time Practice Exercises | वेळ सराव अभ्यास
+# Time Practice Exercises | वेळ सराव अभ्यास 
 
 ## Introduction | परिचय
 
