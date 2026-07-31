@@ -1,4 +1,4 @@
-# छत्रपती शिवाजी महाराज | Chhatrapati Shivaji Maharaj
+# छत्रपती शिवाजी महाराज | Chhatrapati Shivaji Maharaj 
 
 ## Overview | अवलोकन
 
