@@ -1,4 +1,4 @@
-# Number Translation Practice | संख्या अनुवाद सराव
+# Number Translation Practice | संख्या अनुवाद सराव 
 
 ## Introduction | परिचय
 
