@@ -1,4 +1,4 @@
-# Devanagari Writing Practice | देवनागरी लेखन सराव
+# Devanagari Writing Practice | देवनागरी लेखन सराव 
 
 ## Learning Objectives | शिक्षण उद्दिष्ट्ये
  
