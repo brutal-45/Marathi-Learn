@@ -1,4 +1,4 @@
-# Word Games for Marathi Learning
+# Word Games for Marathi Learning 
 
 Fun and interactive word games to practice your Marathi vocabulary and spelling.
 
