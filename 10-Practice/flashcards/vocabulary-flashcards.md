@@ -1,4 +1,4 @@
-# Vocabulary Flashcards
+# Vocabulary Flashcards 
 
 Print this page and cut along the dotted lines to create your Marathi vocabulary flashcards.
 
@@ -19,7 +19,7 @@ Print this page and cut along the dotted lines to create your Marathi vocabulary
 ┌─────────────────────────────────────┐
 │  MARATHI                            │
 │                                     │
-│  नमस्कार                            │
+│  नमस्कार                             │
 │  (namaskār)                         │
 │                                     │
 ├─────────────────────────────────────┤
