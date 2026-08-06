@@ -19,8 +19,8 @@ Print this page and cut along the dotted lines to create your Marathi vocabulary
 ┌─────────────────────────────────────┐
 │  MARATHI                            │
 │                                     │
-│  नमस्कार                             │
-│  (namaskār)                         │
+│   नमस्कार                            │
+│  (namaskar)                         │
 │                                     │
 ├─────────────────────────────────────┤
 │  ENGLISH                            │
