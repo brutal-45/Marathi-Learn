@@ -1,4 +1,4 @@
-# Practice Section
+# Practice Section 
 
 Welcome to the Practice section! This area contains various exercises, quizzes, and activities to help reinforce your Marathi learning journey.
 
